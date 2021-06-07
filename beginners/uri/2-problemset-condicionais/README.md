@@ -1,4 +1,4 @@
-# Problemset:
+# Problemset - Condicionais e Operadores Lógicos:
   * 1035: [Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)
   * 1038: [Lanche](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)
   * 1046: [Tempo de Jogo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046)
