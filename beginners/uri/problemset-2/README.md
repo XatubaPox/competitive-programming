@@ -1,0 +1,11 @@
+# Problemset:
+  * 1035: [Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035)
+  * 1038: [Lanche](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)
+  * 1046: [Tempo de Jogo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1046)
+  * 1050: [DDD](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050)
+  * 1052: [Mês](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052)
+  * 2344: [Notas da Prova](https://www.urionlinejudge.com.br/judge/pt/problems/view/2344)
+  * 2454: [Flíper](https://www.urionlinejudge.com.br/judge/pt/problems/view/2454)
+  * 2780: [Basquete de Robôs](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780)
+  * 2787: [Xadrez](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787)
+  * 2956: [Derivada de 13 Variáveis](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956)
