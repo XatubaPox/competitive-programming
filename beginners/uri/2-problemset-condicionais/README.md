@@ -9,3 +9,9 @@
   * 2780: [Basquete de Robôs](https://www.urionlinejudge.com.br/judge/pt/problems/view/2780)
   * 2787: [Xadrez](https://www.urionlinejudge.com.br/judge/pt/problems/view/2787)
   * 2956: [Derivada de 13 Variáveis](https://www.urionlinejudge.com.br/judge/pt/problems/view/2956)
+
+## Extra
+  * 1036: [Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
+  * 1037: [Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
+  * 1040: [Média 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040)
+  * 1049: [Animal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049)
