@@ -8,3 +8,10 @@
   * 1006: [Média 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)
   * 1007: [Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)
   * 1008: [Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008)
+
+## Extra
+  * 1010: [Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010)
+  * 1011: [Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011)
+
+## Desafio
+  * 1018: [Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018)
