@@ -1,0 +1,20 @@
+# Problemset - Iteração:
+  * 1042: [Sort Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042)
+  * 1059: [Números Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059)
+  * 1060: [Números Positivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1060)
+  * 1064: [Positivos e Média](https://www.urionlinejudge.com.br/judge/pt/problems/view/1064)
+  * 1067: [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
+  * 1070: [Seis Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1070)
+  * 1073: [Quadrado de Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1073)
+  * 1075: [Resto 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1075)
+  * 1149: [Somando Inteiros Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1149)
+  * 1074: [Par ou Ímpar](https://www.urionlinejudge.com.br/judge/pt/problems/view/1074)
+  * 1078: [Tabuada](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078)
+  * 1134: [Tipo de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1134)
+  * 1143: [Quadrado e ao Cubo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1143)
+  * 1146: [Sequências Crescentes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1146)
+  * 1150: [Ultrapassando Z](https://www.urionlinejudge.com.br/judge/pt/problems/view/1150)
+  * 1924: [Vitória e a Indecisão](https://www.urionlinejudge.com.br/judge/pt/problems/view/1924)
+
+## Desafio
+  * 1160: [Crescimento Populacional](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160)
