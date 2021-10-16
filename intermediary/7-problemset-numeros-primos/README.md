@@ -1,0 +1,10 @@
+# Problemset - Números Primos
+  * A: [PolandBall and Hypothesis](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/A)
+  * B: [T-primes](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/B)
+  * C: [Noldbach problem](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/C)
+  * D: [Almost Prime](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/D)
+  * E: [Composite Coloring](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/E)
+  * F: [Another Problem About Dividing Numbers](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/F)
+  * G: [Primes on Interval](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/G)
+  * H: [Prime Subtraction](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/H)
+  * I: [Bear and Prime Numbers](https://codeforces.com/group/G19ss2enIt/contest/343610/problem/I)
